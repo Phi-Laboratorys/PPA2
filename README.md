@@ -3,7 +3,6 @@
   <img src="UniBT_Logo.jpeg" width = 50/>
 </p>
 
-
 ## Einleitung
 Dieses Repository enthält mehrere Auswertung und Daten zu den Versuchen im Bachelor Physik an der Universität Bayreuth in Rahmen des Physikalischen Praktikums A2 geführt von ``Dr. Wolfgang Schöpf``.
 
