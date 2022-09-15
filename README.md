@@ -1,7 +1,4 @@
 <h1 align="center">Physikalisches Praktikum A2</h1>
-<p align="center">
-  <img src="UniBT_Logo.jpeg" width = 50/>
-</p>
 
 
 ## Einleitung
