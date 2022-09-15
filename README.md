@@ -1,6 +1,5 @@
 <h1 align="center">Physikalisches Praktikum A2</h1>
 
-
 ## Einleitung
 Dieses Repository enthält mehrere Auswertung und Daten zu den Versuchen im Bachelor Physik an der Universität Bayreuth in Rahmen des Physikalischen Praktikums A2 geführt von ``Dr. Wolfgang Schöpf``.
 
