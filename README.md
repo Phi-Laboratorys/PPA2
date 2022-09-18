@@ -20,7 +20,7 @@ Die Auswertungen dienen zur **Hilfe** und sollen nicht die Eigenleistung erleich
 |:-------:|:------------------------------------------------------------------------------------|:-----------:|
 | BEU     | Beugung an Einfach- und Doppelspalt sowie Gitter                                    | [1](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_BEU/Charlotte_Leo_Manuel/Versuch_BEU.pdf) |
 | KW      | Komplexe Widerstände und Schwingkreis                                               | [2](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_KW/Anna-Maria_Dominik_Paul/Auswertung%20KW.pdf) |
-| MM      | Magnetisches Moment                                                                 | [1](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_MM/Charlotte_Leo_Manuel/Versuch_MM.pdf) |
+| MM      | Magnetisches Moment                                                                 | [1](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_MM/Charlotte_Leo_Manuel/Versuch_MM.pdf), [2](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_MM/Anna-Maria_Dominik_Paul/Auswerteheft_MM.pdf) |
 | RG      | Reales Gas und Phasenübergänge                                                      | [2](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_RG/Anna-Maria_Dominik_Paul/Auswerteheft_RG.pdf) |
 | SK      | Strom-Spannungs-Kennlinie                                                           | [2](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_SK/Anna-Maria_Dominik_Paul/) |
 | TRA     | Transformator                                                                       | [2](https://github.com/Phi-Laboratorys/PPA2/blob/main/Versuch_TRA/Anna-Maria_Dominik_Paul/Auswertung%20TRA.pdf) |
